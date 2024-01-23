@@ -2,7 +2,7 @@ html,
 body{
    margin: 0;
    font-family: 'Poppins', sans-serif;
-   background-color:#f5e8ba;
+   background-color:#ADD8E6;
 }
 
 #wrapper div,#wrapper h2{
@@ -12,7 +12,7 @@ body{
 }
 
 h2{
-    color:#ffeba7;
+    color:#ADD8E6;
     letter-spacing: 1px;
 }
 input{
