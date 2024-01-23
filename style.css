@@ -52,7 +52,7 @@ button:hover{
     cursor:pointer;
 }
 #result{
-    color:white;
+    color:green;
     margin-top:20px;
     font-size:32px;
 }
