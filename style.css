@@ -2,7 +2,7 @@ html,
 body{
    margin: 0;
    font-family: 'Poppins', sans-serif;
-   background-color:#FF0000;
+   background-color:#00008b;
 }
 
 #wrapper div,#wrapper h2{
@@ -45,7 +45,7 @@ button{
     padding: 0 30px;
     letter-spacing: 1px;
     border: none;
-    color: #102770;
+    color: #Ffffed;
 }
 
 button:hover{
